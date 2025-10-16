@@ -9,6 +9,7 @@ public class Backendjenkinsprace2Application extends SpringBootServletInitialize
 
 	public static void main(String[] args) {
 		SpringApplication.run(Backendjenkinsprace2Application.class, args);
+		System.out.println("Hi Docker");
 	}
-
+	
 }
